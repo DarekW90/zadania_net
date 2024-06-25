@@ -1,0 +1,153 @@
+﻿<Vehicles>
+	<Category name="Samochody osobowe">
+		<Description>Pojazdy przeznaczone do przewozu osób.</Description>
+		<SubCategory name="Toyota">
+			<Description>Japoński producent samochodów.</Description>
+			<ParentCompany>Toyota Motor Corporation</ParentCompany>
+			<Founded>1937</Founded>
+			<Countries>Japonia, USA, Kanada</Countries>
+			<Elements>
+				<Element>
+					<Model>Corolla</Model>
+					<Year>2020</Year>
+					<EngineCapacity>1.8L</EngineCapacity>
+					<DriveType>FWD</DriveType>
+				</Element>
+				<Element>
+					<Model>Camry</Model>
+					<Year>2019</Year>
+					<EngineCapacity>2.5L</EngineCapacity>
+					<DriveType>AWD</DriveType>
+				</Element>
+				<Element>
+					<Model>Prius</Model>
+					<Year>2021</Year>
+					<EngineCapacity>1.8L Hybrid</EngineCapacity>
+					<DriveType>FWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+		<SubCategory name="Ford">
+			<Description>Amerykański producent samochodów.</Description>
+			<ParentCompany>Ford Motor Company</ParentCompany>
+			<Founded>1903</Founded>
+			<Countries>USA, Kanada, Meksyk</Countries>
+			<Elements>
+				<Element>
+					<Model>Mustang</Model>
+					<Year>2021</Year>
+					<EngineCapacity>5.0L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+				<Element>
+					<Model>Fusion</Model>
+					<Year>2018</Year>
+					<EngineCapacity>2.0L</EngineCapacity>
+					<DriveType>FWD</DriveType>
+				</Element>
+				<Element>
+					<Model>Escape</Model>
+					<Year>2020</Year>
+					<EngineCapacity>2.5L Hybrid</EngineCapacity>
+					<DriveType>AWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+		<SubCategory name="Honda">
+			<Description>Japoński producent samochodów i motocykli.</Description>
+			<ParentCompany>Honda Motor Co., Ltd.</ParentCompany>
+			<Founded>1948</Founded>
+			<Countries>Japonia, USA, Kanada</Countries>
+			<Elements>
+				<Element>
+					<Model>Civic</Model>
+					<Year>2021</Year>
+					<EngineCapacity>2.0L</EngineCapacity>
+					<DriveType>FWD</DriveType>
+				</Element>
+				<Element>
+					<Model>Accord</Model>
+					<Year>2019</Year>
+					<EngineCapacity>1.5L</EngineCapacity>
+					<DriveType>FWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+	</Category>
+	<Category name="Ciężarówki">
+		<Description>Pojazdy przeznaczone do przewozu ładunków.</Description>
+		<SubCategory name="Volvo">
+			<Description>Szwedzki producent samochodów ciężarowych.</Description>
+			<ParentCompany>Volvo Group</ParentCompany>
+			<Founded>1927</Founded>
+			<Countries>Szwecja, USA</Countries>
+			<Elements>
+				<Element>
+					<Model>FH</Model>
+					<Year>2021</Year>
+					<EngineCapacity>13.0L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+		<SubCategory name="Scania">
+			<Description>Szwedzki producent samochodów ciężarowych.</Description>
+			<ParentCompany>Traton Group</ParentCompany>
+			<Founded>1891</Founded>
+			<Countries>Szwecja, Holandia, Argentyna</Countries>
+			<Elements>
+				<Element>
+					<Model>R500</Model>
+					<Year>2020</Year>
+					<EngineCapacity>12.7L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+		<SubCategory name="Mercedes-Benz">
+			<Description>Niemiecki producent samochodów ciężarowych.</Description>
+			<ParentCompany>Daimler AG</ParentCompany>
+			<Founded>1926</Founded>
+			<Countries>Niemcy, USA</Countries>
+			<Elements>
+				<Element>
+					<Model>Actros</Model>
+					<Year>2021</Year>
+					<EngineCapacity>12.8L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+	</Category>
+	<Category name="Motocykle">
+		<Description>Pojazdy dwukołowe przeznaczone do przewozu osób.</Description>
+		<SubCategory name="Harley-Davidson">
+			<Description>Amerykański producent motocykli.</Description>
+			<ParentCompany>Harley-Davidson, Inc.</ParentCompany>
+			<Founded>1903</Founded>
+			<Countries>USA, Kanada, Japonia</Countries>
+			<Elements>
+				<Element>
+					<Model>Sportster</Model>
+					<Year>2020</Year>
+					<EngineCapacity>1.2L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+		<SubCategory name="Yamaha">
+			<Description>Japoński producent motocykli i sprzętu sportowego.</Description>
+			<ParentCompany>Yamaha Corporation</ParentCompany>
+			<Founded>1955</Founded>
+			<Countries>Japonia, USA, Europa</Countries>
+			<Elements>
+				<Element>
+					<Model>YZF-R1</Model>
+					<Year>2021</Year>
+					<EngineCapacity>1.0L</EngineCapacity>
+					<DriveType>RWD</DriveType>
+				</Element>
+			</Elements>
+		</SubCategory>
+	</Category>
+</Vehicles>

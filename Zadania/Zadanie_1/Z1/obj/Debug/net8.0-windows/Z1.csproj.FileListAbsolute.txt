@@ -1,0 +1,60 @@
+C:\Users\lange\source\repos\NET\Z1\Z1\bin\Debug\net8.0-windows\Z1.exe
+C:\Users\lange\source\repos\NET\Z1\Z1\bin\Debug\net8.0-windows\Z1.deps.json
+C:\Users\lange\source\repos\NET\Z1\Z1\bin\Debug\net8.0-windows\Z1.runtimeconfig.json
+C:\Users\lange\source\repos\NET\Z1\Z1\bin\Debug\net8.0-windows\Z1.dll
+C:\Users\lange\source\repos\NET\Z1\Z1\bin\Debug\net8.0-windows\Z1.pdb
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\App.baml
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1_MarkupCompile.cache
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.g.resources
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfoInputs.cache
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfo.cs
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.csproj.CoreCompileInputs.cache
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.dll
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\refint\Z1.dll
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.pdb
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\Z1.genruntimeconfig.cache
+C:\Users\lange\source\repos\NET\Z1\Z1\obj\Debug\net8.0-windows\ref\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\bin\Debug\net8.0-windows\Z1.exe
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\bin\Debug\net8.0-windows\Z1.deps.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\bin\Debug\net8.0-windows\Z1.runtimeconfig.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\bin\Debug\net8.0-windows\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\bin\Debug\net8.0-windows\Z1.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\MainWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\App.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\App.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1_MarkupCompile.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.g.resources
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfoInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfo.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.csproj.CoreCompileInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\refint\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\Z1.genruntimeconfig.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\kuba\Z1\Z1\Z1\obj\Debug\net8.0-windows\ref\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\bin\Debug\net8.0-windows\Z1.exe
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\bin\Debug\net8.0-windows\Z1.deps.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\bin\Debug\net8.0-windows\Z1.runtimeconfig.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\bin\Debug\net8.0-windows\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\bin\Debug\net8.0-windows\Z1.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\MainWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\App.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\App.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1_MarkupCompile.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.g.resources
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfoInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.AssemblyInfo.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.csproj.CoreCompileInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\refint\Z1.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\Z1.genruntimeconfig.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie1\Z1\obj\Debug\net8.0-windows\ref\Z1.dll

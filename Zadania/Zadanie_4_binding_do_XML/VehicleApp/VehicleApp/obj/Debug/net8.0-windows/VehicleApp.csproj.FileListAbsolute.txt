@@ -1,0 +1,69 @@
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.baml
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.g.cs
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp_MarkupCompile.cache
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.exe
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.deps.json
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.runtimeconfig.json
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.dll
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.pdb
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.baml
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.g.cs
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.g.resources
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfo.cs
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.dll
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\refint\VehicleApp.dll
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.pdb
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.genruntimeconfig.cache
+C:\Users\sebas\source\repos\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\ref\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.exe
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.deps.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.runtimeconfig.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\App.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp_MarkupCompile.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.g.resources
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfoInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfo.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.csproj.CoreCompileInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\refint\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.genruntimeconfig.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\sebastian\Binding_XML_74030\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\ref\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.exe
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.deps.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.runtimeconfig.json
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\bin\Debug\net8.0-windows\VehicleApp.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.baml
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\CategoryWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\SubCategoryWindow.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\App.g.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp_MarkupCompile.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.g.resources
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfoInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.AssemblyInfo.cs
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.csproj.CoreCompileInputs.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\refint\VehicleApp.dll
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.pdb
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\VehicleApp.genruntimeconfig.cache
+G:\.Studia\Semestr IV\Programowanie .NET\mgr Paweł Bytner\do oddania\Zadanie_4_binding_do_XML\VehicleApp\VehicleApp\obj\Debug\net8.0-windows\ref\VehicleApp.dll

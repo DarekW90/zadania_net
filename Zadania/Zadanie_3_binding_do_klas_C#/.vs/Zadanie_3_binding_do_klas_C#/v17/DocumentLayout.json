@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|g:\\.studia\\semestr iv\\programowanie .net\\mgr pawe\u0142 bytner\\do oddania\\zadanie_3_binding_do_klas_c#\\zadanie_3_binding_do_klas_c#\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|solutionrelative:zadanie_3_binding_do_klas_c#\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|g:\\.studia\\semestr iv\\programowanie .net\\mgr pawe\u0142 bytner\\do oddania\\zadanie_3_binding_do_klas_c#\\zadanie_3_binding_do_klas_c#\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|solutionrelative:zadanie_3_binding_do_klas_c#\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|g:\\.studia\\semestr iv\\programowanie .net\\mgr pawe\u0142 bytner\\do oddania\\zadanie_3_binding_do_klas_c#\\zadanie_3_binding_do_klas_c#\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|solutionrelative:zadanie_3_binding_do_klas_c#\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|g:\\.studia\\semestr iv\\programowanie .net\\mgr pawe\u0142 bytner\\do oddania\\zadanie_3_binding_do_klas_c#\\zadanie_3_binding_do_klas_c#\\mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|solutionrelative:zadanie_3_binding_do_klas_c#\\mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|g:\\.studia\\semestr iv\\programowanie .net\\mgr pawe\u0142 bytner\\do oddania\\zadanie_3_binding_do_klas_c#\\zadanie_3_binding_do_klas_c#\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA3EE133-247F-43CF-84E8-85FA653EF6AF}|Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#.csproj|solutionrelative:zadanie_3_binding_do_klas_c#\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie_3_binding_do_klas_C#\\EditWindow.xaml.cs",
+              "ToolTip": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\EditWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie_3_binding_do_klas_C#\\EditWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:47:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "Zadanie_3_binding_do_klas_C#\\EditWindow.xaml",
+              "ToolTip": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\EditWindow.xaml",
+              "RelativeToolTip": "Zadanie_3_binding_do_klas_C#\\EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T07:41:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediaItem.cs",
+              "DocumentMoniker": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MediaItem.cs",
+              "RelativeDocumentMoniker": "Zadanie_3_binding_do_klas_C#\\MediaItem.cs",
+              "ToolTip": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MediaItem.cs",
+              "RelativeToolTip": "Zadanie_3_binding_do_klas_C#\\MediaItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:39:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie_3_binding_do_klas_C#\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie_3_binding_do_klas_C#\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:39:09.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b9cc1c7d-e920-499e-81e6-e7f5a7cccf8e",
+        "Display": 1,
+        "X": 32,
+        "Y": 72,
+        "Width": 1528,
+        "Height": 803,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zadanie_3_binding_do_klas_C#\\MainWindow.xaml",
+              "ToolTip": "G:\\.Studia\\Semestr IV\\Programowanie .NET\\mgr Pawe\u0142 Bytner\\do oddania\\Zadanie_3_binding_do_klas_C#\\Zadanie_3_binding_do_klas_C#\\MainWindow.xaml",
+              "RelativeToolTip": "Zadanie_3_binding_do_klas_C#\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T07:39:12.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

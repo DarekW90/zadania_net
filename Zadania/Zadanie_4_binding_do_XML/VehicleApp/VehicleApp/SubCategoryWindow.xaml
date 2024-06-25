@@ -1,0 +1,21 @@
+<Window x:Class="VehicleApp.SubCategoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Podkategoria" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <TextBlock Name="SubCategoryDescription" Margin="10" TextWrapping="Wrap" />
+            <TextBlock Name="ParentCompanyText" Margin="10" />
+            <TextBlock Name="FoundedText" Margin="10" />
+            <TextBlock Name="CountriesText" Margin="10" />
+            <DataGrid Name="ElementDataGrid" AutoGenerateColumns="False" Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Model" Binding="{Binding Model}" Width="*"/>
+                    <DataGridTextColumn Header="Rok" Binding="{Binding Year}" Width="*"/>
+                    <DataGridTextColumn Header="Pojemność silnika" Binding="{Binding EngineCapacity}" Width="*"/>
+                    <DataGridTextColumn Header="Rodzaj napędu" Binding="{Binding DriveType}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

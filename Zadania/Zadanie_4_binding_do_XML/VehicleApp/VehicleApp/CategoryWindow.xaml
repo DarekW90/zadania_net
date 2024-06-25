@@ -1,0 +1,11 @@
+<Window x:Class="VehicleApp.CategoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kategoria" Height="350" Width="525">
+	<Grid>
+		<StackPanel>
+			<TextBlock Name="CategoryDescription" Margin="10" TextWrapping="Wrap" />
+			<ListBox Name="SubCategoryList" DisplayMemberPath="Name" SelectionChanged="SubCategoryList_SelectionChanged" />
+		</StackPanel>
+	</Grid>
+</Window>

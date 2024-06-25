@@ -1,0 +1,74 @@
+﻿<Window x:Class="YourNamespace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" Height="778" Width="400">
+    <Grid Margin="0,0,0,36">
+        <!-- Definicja wierszy i kolumn siatki -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="284*"/>
+            <ColumnDefinition Width="89*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Etykieta z poprzednim działaniem -->
+        <Label x:Name="PreviousOperationLabel" Grid.Row="0" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" Margin="69,10,0,10" Grid.Column="1"/>
+
+        <!-- Pole tekstowe z wynikiem/wprowadzoną liczbą -->
+        <TextBox x:Name="DisplayTextBox" Grid.Row="1" FontSize="24" FontWeight="Bold" Margin="10,10,20,10" TextAlignment="Right" IsReadOnly="True" Grid.ColumnSpan="2"/>
+
+        <!-- Przyciski kalkulatora -->
+        <WrapPanel Grid.Row="2" Orientation="Vertical" Margin="10,0,10,-24" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Vertical">
+                <!-- Wiersz przycisków -->
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="%" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="mod" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="log" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="ln" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="floor" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="ceil" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="fact" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="sqrt" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="7" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="8" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="9" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="/" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="4" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="5" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="6" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="*" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="1" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="2" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="3" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="-" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+
+                    <Button Content="0" FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="." FontSize="30" Click="Button_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="+" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="=" Background="LightGreen" FontSize="30" Click="Equals_Click" Height="80" Width="80" Margin="5"/>
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="C" Background="LightPink" FontSize="30" Click="Clear_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="1/x" FontSize="30" Click="Function_Click" Height="80" Width="80" Margin="5"/>
+                    <Button Content="x^y" FontSize="30" Click="Operation_Click" Height="80" Width="80" Margin="5"/>
+                </StackPanel>
+
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
