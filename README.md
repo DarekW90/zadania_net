@@ -1,1 +1,4 @@
-"# zadania_net" 
+## Dariusz Walda
+## 74031
+
+Zadania .net
