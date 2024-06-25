@@ -1,4 +1,7 @@
-## Dariusz Walda
-## 74031
+## Dariusz Walda 74031
+
+---
 
 Zadania .net
+
+---
